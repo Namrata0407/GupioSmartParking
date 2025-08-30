@@ -128,7 +128,7 @@ For testing purposes, use these credentials:
 - **OTP:** Generated dynamically (shown in toast message)
 
 ### Key Features Walkthrough
-
+![Login Page](![WhatsApp Image 2025-08-30 at 12 42 16 PM](https://github.com/user-attachments/assets/aba31d46-63ad-4ffe-adb8-8f31dc68dbb4))
 1. **Login Process**
    - Enter Employee ID and Password
    - Click "Send OTP" to receive verification code
