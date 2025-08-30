@@ -212,28 +212,6 @@ npm test
 yarn test
 ```
 
-## 📱 Screenshots
-
-### Login Screen
-- Employee authentication with OTP verification
-- Password reset functionality
-- Form validation with error messages
-
-### Dashboard
-- Real-time parking statistics
-- Quick action buttons
-- User profile and logout
-
-### Parking Layout
-- Interactive slot grid
-- Visual status indicators
-- Booking confirmation modals
-
-### Active Bookings
-- Current reservations list
-- Booking cancellation
-- Real-time updates
-
 ## 🤝 Contributing
 
 1. Fork the repository
