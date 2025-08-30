@@ -128,16 +128,21 @@ For testing purposes, use these credentials:
 - **OTP:** Generated dynamically (shown in toast message)
 
 ### Key Features Walkthrough
-![Login Page](![WhatsApp Image 2025-08-30 at 12 42 16 PM](https://github.com/user-attachments/assets/aba31d46-63ad-4ffe-adb8-8f31dc68dbb4))
+ <img src="https://github.com/user-attachments/assets/aba31d46-63ad-4ffe-adb8-8f31dc68dbb4" alt="Login Screen" width="350"/>
+
 1. **Login Process**
    - Enter Employee ID and Password
    - Click "Send OTP" to receive verification code
    - Enter the 6-digit OTP to complete login
 
+<img src="https://github.com/user-attachments/assets/4c61163e-49f7-4cc3-82e1-f18bba6092e4" alt="Login Screen" width="350"/>
+
 2. **Dashboard**
    - View parking statistics and available spots
    - Access quick actions for booking and viewing reservations
    - Logout functionality available
+
+<img src="https://github.com/user-attachments/assets/bb936eb9-0288-4855-a0b8-9f2466c8665d" alt="Login Screen" width="350"/>
 
 3. **Parking Layout**
    - Interactive grid showing all parking slots
@@ -145,10 +150,17 @@ For testing purposes, use these credentials:
    - Tap available slots to book them
    - Confirmation modals for booking actions
 
+<img src="https://github.com/user-attachments/assets/794187f7-b3bd-486f-990e-79cd0193d584" alt="Login Screen" width="350"/>
+
 4. **Active Bookings**
    - View all current reservations
    - Cancel bookings with confirmation
    - Real-time updates across the app
+
+<img src="https://github.com/user-attachments/assets/89e69e03-4466-47ae-b1bc-38a33b6f974b" alt="Login Screen" width="350"/>
+
+5. **Forget Password Page**
+   - Redirect user to the reset password page
 
 ## 📁 Project Structure
 
