@@ -78,7 +78,7 @@ A modern React Native mobile application for smart parking management with real-
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/GupioSmartParking.git
+   git clone https://github.com/Namrata0407/GupioSmartParking
    cd GupioSmartParking
    ```
 
